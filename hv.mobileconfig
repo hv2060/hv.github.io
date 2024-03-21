@@ -20,11 +20,11 @@
 </dict>
 </array>
 <key>PayloadDisplayName</key>
-<string>Chặn thu hồi ( Có chặn ADS ) ✅</string>
+<string>Blocking Cert Revocation ( Ads Block )</string>
 <key>PayloadIdentifier</key>
 <string>vevrl9air2.cloudflare-gateway.com.profile</string>
 <key>PayloadOrganization</key>
-<string>Blocking Cert Revocation Yes Block Ads</string>
+<string>Blocking Cert Revocation Ads Block</string>
 <key>PayloadType</key>
 <string>com.apple.dnsSettings.managed</string>
 <key>PayloadUUID</key>
@@ -64,11 +64,11 @@
 </dict>
 </array>
 <key>PayloadDisplayName</key>
-<string>Chặn thu hồi ( Không chặn ADS ) ✅</string>
+<string>Blocking Cert Revocation ( No Ads Block )</string>
 <key>PayloadIdentifier</key>
 <string>khoindvn.bio.link.profile</string>
 <key>PayloadOrganization</key>
-<string>Blocking Cert Revocation No Block Ads</string>
+<string>Blocking Cert Revocation No Ads Block</string>
 <key>PayloadType</key>
 <string>com.apple.dnsSettings.managed</string>
 <key>PayloadUUID</key>
